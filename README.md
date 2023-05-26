@@ -1,3 +1,1 @@
-# guessing_game
-guessing game 4 computer
-guessing game
+# guessing_game that tries to guess what you are thinking
